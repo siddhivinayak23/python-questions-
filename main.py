@@ -6,4 +6,4 @@ if vote_age > 18:
   print(
     f"Congratulastion! You are age {vote_age} eligible for casting your vote")
 else:
-  print(f"Sorry, You are age {vote_age} less for casting vote.")
+  print(f"Sorry, You are age {vote_age} less for casting vote..")
